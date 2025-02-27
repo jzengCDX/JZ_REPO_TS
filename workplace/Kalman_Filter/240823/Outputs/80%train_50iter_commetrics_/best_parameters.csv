@@ -1,0 +1,12 @@
+initial_state_mean,transition_matrix,observation_matrix,process_noise_covariance,observation_noise_covariance,initial_covariance,residual_mean,residual_std,covariance_diff
+[1. 1. 1.],"[[0.95 0.   0.  ]
+ [0.   0.95 0.  ]
+ [0.   0.   0.95]]","[[1. 0. 0.]
+ [0. 1. 0.]
+ [0. 0. 1.]]","[[0.1 0.  0. ]
+ [0.  0.1 0. ]
+ [0.  0.  0.1]]","[[0.1 0.  0. ]
+ [0.  0.1 0. ]
+ [0.  0.  0.1]]","[[1. 0. 0.]
+ [0. 1. 0.]
+ [0. 0. 1.]]",0.4568512051247563,30.34502721191356,452.742867431169

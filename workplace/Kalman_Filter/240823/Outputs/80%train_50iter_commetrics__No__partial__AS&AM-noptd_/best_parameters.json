@@ -1,0 +1,59 @@
+{
+    "initial_state_mean": [
+        1.0,
+        1.0
+    ],
+    "transition_matrix": [
+        [
+            0.95,
+            0.0
+        ],
+        [
+            0.0,
+            0.95
+        ]
+    ],
+    "observation_matrix": [
+        [
+            1.0,
+            0.0
+        ],
+        [
+            0.0,
+            1.0
+        ]
+    ],
+    "process_noise_covariance": [
+        [
+            0.01,
+            0.0
+        ],
+        [
+            0.0,
+            0.01
+        ]
+    ],
+    "observation_noise_covariance": [
+        [
+            0.1,
+            0.0
+        ],
+        [
+            0.0,
+            0.1
+        ]
+    ],
+    "initial_covariance": [
+        [
+            1.0,
+            0.0
+        ],
+        [
+            0.0,
+            1.0
+        ]
+    ],
+    "residual_mean": 0.2988675297334558,
+    "residual_std": 1.166138172961326,
+    "covariance_diff": 0.5956976151185093
+}
