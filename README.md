@@ -14,6 +14,7 @@ These models are used for **sequential data analysis, state estimation, and fore
 - `Bins/` - help functions
 - `data/` - Contains sample datasets
 - `workplace/` - data processing and models
+- `workplace/Kalman_Filter` - 240922 folder contains the final pipeline
 - `ts_env.yml` - **Conda environment file**
 - `README.md` - Project documentation
 
